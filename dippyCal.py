@@ -13,10 +13,10 @@ from pygame.locals import *
 
 #import todoDippyCal as todoListMod
 appid = "DippyCal"
-apptoken = "api53c4c13394d94"
-email = "czhanacek@gmail.com"
-password = "840454"
-userid = "td52de0ebb6b773"
+apptoken = ""
+email = ""
+password = ""
+userid = ""
 taskFile = ".dippycaltasks"
 tokenFile = ".dippycaltoken"
 
